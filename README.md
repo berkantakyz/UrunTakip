@@ -3,7 +3,7 @@ Barkod Kontrollü Ürün Takip Otomasyonu barkod numarasını baz alarak ürünl
 bir şekilde kontrol etmenize olanak sağlar.Otomasyonun arayüzü kullanıcının kolay kullanabileceği şekilde tasarlanmıştır.Tüm kullanım
 detayları burada mevcuttur.
 
------RESİMLER-----
+-----EKRAN GÖRÜNTÜLERİ-----
 
 ![1](https://user-images.githubusercontent.com/28530740/36205479-90b5ae50-1197-11e8-81ce-9780051cd890.png)
 
