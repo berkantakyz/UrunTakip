@@ -1,7 +1,12 @@
 # ÜRÜN TAKİP OTOMASYONU
 Barkod Kontrollü Ürün Takip Otomasyonu barkod numarasını baz alarak ürünlerinizin stok adetini, alış ve satış fiyatlarını güvenli 
-bir şekilde kontrol etmenize olanak sağlar.Otomasyonun arayüzü kullanıcının kolay kullanabileceği şekilde tasarlanmıştır.Tüm kullanım
-detayları burada mevcuttur.
+bir şekilde kontrol etmenize olanak sağlar.
+
+Otomasyonun arayüzü kullanıcının kolay kullanabileceği şekilde tasarlanmıştır.
+
+Ek olarak el terminali veya barkod okuyucu ile barkod no okunacak şekilde geliştirilebilir.
+
+Tüm kullanım detayları mevcuttur.
 
 -----EKRAN GÖRÜNTÜLERİ-----
 
