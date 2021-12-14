@@ -8,7 +8,7 @@ Ek olarak el terminali veya barkod okuyucu ile barkod no okunacak şekilde geli�
 
 Tüm kullanım detayları mevcuttur.
 
------EKRAN GÖRÜNTÜLERİ-----
+***Screen Shoots***
 
 ![1](https://user-images.githubusercontent.com/28530740/36205479-90b5ae50-1197-11e8-81ce-9780051cd890.png)
 
